@@ -41,4 +41,4 @@ class Componente extends HTMLElement {
     this.appendChild(div);
   }
 }
-customElements.define("componente-novo", Componente);
+customElements.define("componente-novok", Componente);
